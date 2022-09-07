@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Component-basic';
+  heros:string[] = ['Tarique Akhter Ansari','Sharukh khan','Ranveer kapoor','Saumya','Afsha'];
 }
